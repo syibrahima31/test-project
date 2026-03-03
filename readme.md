@@ -2,3 +2,5 @@
 
 - creer un depot Git
 - Faire le link avec github 
+
+## Partie 
